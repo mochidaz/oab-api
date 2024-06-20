@@ -1,0 +1,35 @@
+[
+    {
+        "model": "users.role",
+        "fields": {
+            "id": "SPR",
+            "name": "Superadmin",
+            "created_at": "2020-01-01T00:00:00Z",
+            "updated_at": "2020-01-01T00:00:00Z",
+            "created_by": "Seeder",
+            "updated_by": "Seeder"
+        }
+    },
+    {
+        "model": "users.role",
+        "fields": {
+            "id": "ADM",
+            "name": "Admin",
+            "created_at": "2020-01-01T00:00:00Z",
+            "updated_at": "2020-01-01T00:00:00Z",
+            "created_by": "Seeder",
+            "updated_by": "Seeder"
+        }
+    },
+    {
+        "model": "users.role",
+        "fields": {
+            "id": "USR",
+            "name": "User",
+            "created_at": "2020-01-01T00:00:00Z",
+            "updated_at": "2020-01-01T00:00:00Z",
+            "created_by": "Seeder",
+            "updated_by": "Seeder"
+        }
+    }
+]
